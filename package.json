@@ -2,7 +2,7 @@
   "name": "zzr-helper",
   "displayName": "Zzr helper",
   "version": "0.0.1",
-  "description": "A basic Plasmo extension.",
+  "description": "A tool to make it easier to prepare for a SoS meeting",
   "author": "Oleksii Melnyk",
   "scripts": {
     "dev": "plasmo dev",
@@ -25,7 +25,7 @@
   },
   "manifest": {
     "host_permissions": [
-      "https://*/*"
+      "https://dev.azure.com/*"
     ]
   }
 }
